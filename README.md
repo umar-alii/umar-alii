@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umar ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar ali" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/umar ali](https://www.linkedin.com/in/umar2ali/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAZXh0bgNhZW0CMTEAAabx_y7NsaMJEqDqryA0snmxNVL8NJDk3VWDpwHfb7REJnrwr9P4vi8OJ6M_aem_m1jI2EYplldyQAw112qxqA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar ali" height="30" width="40" /></a>
 <a href="https://fb.com/umar ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umar ali" height="30" width="40" /></a>
 <a href="https://instagram.com/i_umar.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_umar.ali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umar4245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umar4245" height="30" width="40" /></a>
