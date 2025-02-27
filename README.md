@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umar Ali</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 
+<h2 align="center">I am a Software Engineering Student at Pak Austria Fachhochschule Institue of Applied Science and Technology, Haripur</h2>
 
 - 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **umarrali.pk@gmail.com**
 
