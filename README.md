@@ -37,7 +37,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
 </p>
+<h1> Performance Analytics</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umar-alii&show_icons=true&locale=en" alt="umar-alii" /></p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umar-alii&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umar-alii&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umar-alii&" alt="umar-alii" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umar-alii&custom_title=Umar%20Ali's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=fe6e95&point=FFFFFF" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umar-alii&theme=radical" alt="Profile Details" width="100%" />
+        <br/><br/>
+</div>
+
+     
+---
