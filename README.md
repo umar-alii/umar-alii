@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Umar Ali</h1>
+  <h1>Hi, I am Umar Ali</h1>
   <p>Software Engineering | Backend Development | DevOps</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umarrali)
