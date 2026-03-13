@@ -7,20 +7,14 @@
 </div>
 
 ## About Me
-
-- 🎓 Bachelor's in Software Engineering Student from PAF-IAST
-- 🚀 Focused on Backend and enterprise level Development
-- 🔍 Seeking opportunities to innovate through technology
-- 🌟 Committed to continuous learning and improvement
+Software Engineering student at PAF-IAST, building scalable backend systems with a focus on enterprise architecture and DevOps.
 
 ## Skills
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,graphql,mongodb,mysql,postgres,docker,kubernetes,git" />
 </div>
 
 ## GitHub Stats
-
 <div align="center">
   <table>
     <tr>
@@ -45,7 +39,5 @@
 ---
 
 <div align="center">
-  <p>Open for collaboration, innovation, and professional opportunities</p>
-  <p><i>Available for hire</i></p>
-  <img src="https://img.shields.io/badge/Updated-2025--06--01%2019:29:53%20UTC-blue?style=flat-square&logo=github" alt="Last Updated" />
+  <p>Open to collaboration and professional opportunities</p>
 </div>
